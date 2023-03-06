@@ -1,0 +1,7 @@
+C:\Projects\Azure\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.exe
+C:\Projects\Azure\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Projects\Azure\MyFirstAzureWebApp\bin\Release\net6.0\publish\appsettings.json
+C:\Projects\Azure\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.dll
+C:\Projects\Azure\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.deps.json
+C:\Projects\Azure\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.runtimeconfig.json
+C:\Projects\Azure\MyFirstAzureWebApp\bin\Release\net6.0\publish\MyFirstAzureWebApp.pdb

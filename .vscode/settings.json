@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/1cfd83e2-5e92-4b00-a83f-4cd0ee01d540/resourceGroups/henrikAzureWebAppResourceGroup/providers/Microsoft.Web/sites/henrikAzureWebApp"
+}
